@@ -1,3 +1,6 @@
+        Hacker Rank:-   For Loop2
+
+
 import java.util.*;
 import java.io.*;
 
