@@ -1,3 +1,6 @@
+       Hacker Rank:-    For Loop1 (Table print)
+
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
